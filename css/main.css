@@ -21,5 +21,7 @@ body #portfolio {
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feccb1', endColorstr='#fb955e',GradientType=0 );
   /* IE6-8 */
-  background-image: url(../images/portfolio-bg.png) no-repeat center center;
+  background-image: url(../images/portfolio-bg.png);
+  background-repeat: no-repeat;
+  background-position: center center;
   min-height: 1000px; }
