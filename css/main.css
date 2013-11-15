@@ -1,3 +1,7 @@
+body #home {
+  min-height: 1000px; }
+body #about {
+  min-height: 1000px; }
 body #portfolio {
   background: #feccb1;
   /* Old browsers */
@@ -16,4 +20,6 @@ body #portfolio {
   background: linear-gradient(to bottom, #feccb1 0%, #f17432 50%, #ea5507 51%, #fb955e 100%);
   /* W3C */
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#feccb1', endColorstr='#fb955e',GradientType=0 );
-  /* IE6-8 */ }
+  /* IE6-8 */
+  background-image: url(../images/portfolio-bg.png) no-repeat center center;
+  min-height: 1000px; }
