@@ -1,11 +1,14 @@
 body {
-	section {
-		min-height: 500px;
-	}
-	#home {
-	}
-	#about {
-	}
-	#portfolio {
+	#wrapper {
+		background: transparent url(../images/full-bg.png) no-repeat 0 0;
+		section {
+			min-height: 500px;
+		}
+		#home {
+		}
+		#about {
+		}
+		#portfolio {
+		}	
 	}
 }

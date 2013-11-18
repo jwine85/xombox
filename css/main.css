@@ -1,2 +1,4 @@
-body section {
-  min-height: 500px; }
+body #wrapper {
+  background: transparent url(../images/full-bg.png) no-repeat 0 0; }
+  body #wrapper section {
+    min-height: 500px; }
