@@ -30,4 +30,5 @@ body #wrapper {
       /* IE6-8 */
       display: table-cell;
       height: 33%;
-      vertical-align: middle; }
+      vertical-align: middle;
+      width: 100%; }
