@@ -1,0 +1,26 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+body {
+	#wrapper {
+		section {
+			@include linearGradient();
+
+			min-height: 1000px;
+			height: 1000px; 
+			margin: 0 auto; 
+			width: 100%; 
+			max-width: 1920px; 
+			position: relative; 
+			article {
+				background: #BFB3A8;
+				height: 460px;
+				position: absolute; 
+				text-align: center; 
+				top: 150px; 
+				width: 100%;
+			}
+		}
+	}
+}
