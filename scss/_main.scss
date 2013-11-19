@@ -13,6 +13,9 @@ body {
 			width: 100%; 
 			max-width: 1920px; 
 			position: relative; 
+			&#about {
+				@include linearGradient(#1b57a6, #1b7ea6);
+			}
 			article {
 				background: #BFB3A8;
 				height: 460px;
